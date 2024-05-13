@@ -1,0 +1,9 @@
+Dans une classe main on : 
+Créé un objet de Classe ChargeurMagasin à partir d'un répertoire
+Créé un Magasin avec la méthode chargerMagasin()
+Créé un objet de Classe ChargeurCD à partir d'un fichier
+Créé un objet CD grâce à la méthode chargerCD()
+Extrait une piste avec la méthode extrairePiste() 
+Ajoute une piste avec la méthode ajouterPiste() deux fois.
+Ajoute le CD au Magasin grâce à la méthode ajouteCd() 
+  
